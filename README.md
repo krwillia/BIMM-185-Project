@@ -27,6 +27,9 @@ Running the python script
   Numpy can be found at http://www.numpy.org/
   Pandas can be found at http://pandas.pydata.org/
   Metabatools are located within this github file https://github.com/krwillia/BIMM-185-Project
+  
+  Make sure that the following files are in the Same Directory:
+    Data.csv and MasterDatabase_v2.0.6_cyto.xlsx
 
   Open terminal and change to the current directory that contains the python script
     ex. ..MyComputer$ cd Desktop
@@ -79,6 +82,9 @@ Running the python script
   
   *****A potential problem with this is after the .csv file has been generated, you need to manually add one top row
   and name the left column metabolite, and the right column, Whichever is useful, such as Z-Score******
+  
+  Should this for whatever reason not work, there is a file name 'Sur vs Sal.csv' attached that will act
+  as a model for this program.
   
 Uploading to Cytoscape
 
